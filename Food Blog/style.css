@@ -1,0 +1,70 @@
+* {
+  margin: 0px;
+}
+
+.nav {
+  background-color: Cyan;
+}
+
+.nav ul {
+  display: flex;
+  padding-left: 750px;
+}
+
+.nav li {
+  padding: 15px;
+  list-style: none;
+}
+
+.header {
+  margin-top: 0;
+}
+
+.tittle {
+  background: linear-gradient(rgba(128, 36, 74, 0.411), rgba(0, 255, 255, 0.5)),
+    url("https://cdn.pixabay.com/photo/2015/05/07/15/08/cookie-756601__340.jpg");
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+
+.tittle h1 {
+  color: White;
+  text-align: center;
+  font-size: 50px;
+  padding-top: 400px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.rep {
+  width: 800px;
+  margin: 10px;
+}
+
+.rep img {
+  width: 500px;
+  height: 300px;
+}
+
+.rep p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.rep h1 {
+  text-align: center;
+  color: #03fc90;
+}
+
+.rep h2 {
+  text-align: center;
+}
+
+.recipes {
+  display: flex;
+}
