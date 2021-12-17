@@ -68,3 +68,14 @@ body {
 .recipes {
   display: flex;
 }
+
+.videos {
+  display: flex;
+}
+
+.videos iframe {
+  margin: 3px;
+}
+.oddvid {
+  margin-left: 25%;
+}
