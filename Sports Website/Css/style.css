@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header nav ul {
+  display: flex;
+  justify-content: center;
+}
+
+.header nav ul li {
+  padding: 0.7rem;
+  list-style-type: none;
+  padding-top: 25px;
+  font-size: large;
+}
+
+.header nav ul li a {
+  text-decoration: none;
+  color: aqua;
+}
+
+.header nav ul li:hover {
+  border-bottom: 2px solid rgb(0, 255, 115);
+  border-radius: 25%;
+  transition-duration: 500ms;
+}
+
+.header {
+  background-color: black;
+  height: 70px;
+  background-repeat: no-repeat;
+}
+
+.Ms-Dhoni {
+  width: 100%;
+  height: 891px;
+  color: white;
+  background: url(https://c4.wallpaperflare.com/wallpaper/453/118/343/ms-dhoni-wallpaper-preview.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 3.5rem;
+}
+
+.Ms-Dhoni h3 {
+  padding-top: 10%;
+  padding-left: 9vw;
+}
+
+.Ms-Dhoni h1 {
+  padding-left: 20px;
+  padding-left: 16vw;
+}
