@@ -39,6 +39,7 @@
 body {
   margin: 0px;
   padding: 0px;
+  color: black;
 }
 
 .rep {
@@ -51,9 +52,17 @@ body {
   height: 300px;
 }
 
+// .rep p {
+//   font-size: 20px;
+//   text-align: center;
+// }
 .rep p {
-  font-size: 20px;
   text-align: center;
+  color: rgba(0, 255, 255, 0.5);
+}
+
+h1 {
+  color: blue;
 }
 
 .rep h1 {
