@@ -16,6 +16,11 @@
   font-size: large;
 }
 
+.header nav ul li a {
+  text-decoration: none;
+  color: aqua;
+}
+
 .header nav ul li:hover {
   border-bottom: 2px solid rgb(0, 255, 115);
   border-radius: 25%;
